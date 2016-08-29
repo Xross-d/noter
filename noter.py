@@ -4,8 +4,8 @@ import tkMessageBox
 import pickle
 import sched, time
 
-version = "1.0.0"
-notes_file = "notes.tnt"
+version = "0.0.1"
+notes_file = "notes.db"
 
 about_text = "Version: "+version+"\nXross."
 
